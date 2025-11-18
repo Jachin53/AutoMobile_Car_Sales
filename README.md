@@ -58,7 +58,3 @@ This project delivers a comprehensive analysis of dealership revenue performance
 ## 👤 Author
 **Sindiswa Jachin Shongwe**  
 Strategic Analyst | Data Storyteller | Dealership Performance Specialist
-
----
-
-Would you like help turning this into a branded one-pager or executive summary next?
